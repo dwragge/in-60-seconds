@@ -4,6 +4,8 @@
 
 ## Add Some Slide Candy
 
+![IMAGE](assets/img/presentation.png)
+
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
@@ -12,6 +14,7 @@
 @snapend
 
 @snap[east span-50]
+![IMAGE](assets/img/presentation.png)
 @snapend
 
 @snap[south span-100 text-white]
@@ -35,6 +38,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
 @snap[east span-45]
+@img[shadow](assets/img/conference.png)
 @snapend
 
 ---
@@ -60,6 +64,9 @@ REFERENCES "forum" ("id");
 @[6,7, zoom-13](Using GitPitch live code presenting with optional annotations.)
 @[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
 @snapend
+
+
+---?image=assets/img/presenter.jpg
 
 @snap[north span-100 h2-white]
 ## Now It's Your Turn
